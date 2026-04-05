@@ -1,0 +1,3 @@
+date,decision,reasoning,expected_outcome,review_date,status
+2026-03-06,Use persistent memory system,Claude lacks native memory,Continuity between sessions,2026-04-04,REVIEW DUE
+2026-04-05,Store decisions in CSV,Structured and queryable,Easy review workflow,2026-05-05,PENDING
