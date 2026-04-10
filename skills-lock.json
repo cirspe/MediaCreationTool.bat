@@ -381,6 +381,11 @@
       "sourceType": "github",
       "computedHash": "519ae2cd9c26ab957fd86deb3b5d4d0079c740f4d3a29044132817b1b18ea9dd"
     },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "computedHash": "d31e234f0c90694a670222cdd1dafa853e051d7066beda389f1097c22dadd461"
+    },
     "flutter-dart-code-review": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
