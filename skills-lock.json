@@ -81,10 +81,20 @@
       "sourceType": "github",
       "computedHash": "3108a62e2d812aad5f1d192281dc79d7c2891234ef179ca97cf79472286f5126"
     },
+    "arrange": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "ec95c0c0780e0fa3c1fa314b3a7157ddf31a4b7b107b5978fb7b8d77fb1f07b9"
+    },
     "article-writing": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "a527a9f0a6d47bb5006c5a112e34843c64cb9d5fba67d392aa380ae6d79476f1"
+    },
+    "audit": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "bea0635c86cae57a087b9939106d4da0729a6297afdf894667bd32d215d46018"
     },
     "automation-audit-ops": {
       "source": "affaan-m/everything-claude-code",
@@ -121,6 +131,11 @@
       "sourceType": "github",
       "computedHash": "b662737f0ae3e589b59f141d219d8cf837f68cdd078c0e860bd82f62392ba12d"
     },
+    "bolder": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "3cc95ca0ec7cfb3fe57af882e08eb3d422aa347b7bfbdb8fa462b1701128a2aa"
+    },
     "brand-voice": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
@@ -150,6 +165,11 @@
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "da2c0946882104978b2f47e034eff9688d70653502bc0d89221566a7091f010d"
+    },
+    "clarify": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "65043f13b0a72c1f6b63d8bd5941ff18a5726c21ce3c5190c9becaf67178349d"
     },
     "claude-api": {
       "source": "affaan-m/everything-claude-code",
@@ -185,6 +205,11 @@
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "30be57d3bc2d6db11eea334d3d437b1c51b2a70156d041668b96b08cff0a1032"
+    },
+    "colorize": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "c67ed4d7728282b1a4e786e87b5ea932c5da7ccddd688e4f1bde07d089097ad3"
     },
     "compose-multiplatform-patterns": {
       "source": "affaan-m/everything-claude-code",
@@ -256,6 +281,11 @@
       "sourceType": "github",
       "computedHash": "e0050751df5d5a963019856a234aa9adf4aabc244795799ba2afeb72e5608250"
     },
+    "critique": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "00e27a6e35ca5f63a8670871b966b42cf275166ea0d7cf1cecdc6e1fc71d8202"
+    },
     "crosspost": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
@@ -306,6 +336,11 @@
       "sourceType": "github",
       "computedHash": "2063f9731d91a4d5b539eb92b916e060dc10c6b2c37b230c9c4f3fa11bdefe30"
     },
+    "delight": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "c41964fc9bb2251c92618941def84861b34001a88c19ef7eed7648120b65d54d"
+    },
     "deployment-patterns": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
@@ -315,6 +350,11 @@
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "e94439a0e2704d3802c2c5b393444a65afd2a5e0f2b0809e5ec9189452f4734b"
+    },
+    "distill": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "2937d567b86a6e48c7338731c7dcc4edbe1ffb2058f9502d2b94e5ef81a8ce13"
     },
     "django-patterns": {
       "source": "affaan-m/everything-claude-code",
@@ -401,6 +441,11 @@
       "sourceType": "github",
       "computedHash": "16816278f0caaf2e916782d1d5356c5a567b6c501c6fedf553785c6ddbabf03b"
     },
+    "extract": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "1bbe30b5be73a86971f6bccb37daae84aaafceaa6d23429d6a3a0442378ac4ec"
+    },
     "fal-ai-media": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
@@ -471,6 +516,11 @@
       "sourceType": "github",
       "computedHash": "bfd2c0fb3baac4fa06e07851234356033b700dd76719fab0f8cd2db7a2f0a7a6"
     },
+    "harden": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "f8ce420b3c78b90707704122264da76514c793ac0e12fb9540ace68d257c231c"
+    },
     "healthcare-cdss-patterns": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
@@ -505,6 +555,11 @@
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "daf3d4ef51f03ec60da2d7df7dac0c4e7523ac43d8ec722e9548e4c728a7f9e6"
+    },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "094491c0ae1dedba1865a45d8e9ec75520fb161e2d2fe0029cba914200335ba1"
     },
     "inventory-demand-planning": {
       "source": "affaan-m/everything-claude-code",
@@ -671,6 +726,11 @@
       "sourceType": "github",
       "computedHash": "e32028a214f7200428e5a6ef71d081014f0df44d460ce2fea8cd0bf28f5b76d5"
     },
+    "normalize": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "1f5475e839d472a92298eaf6db26bab5ff6634fc3a7b76904e480242e809188e"
+    },
     "nutrient-document-processing": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
@@ -681,6 +741,11 @@
       "sourceType": "github",
       "computedHash": "af1a31e0470c24e1ada7f5b9a4a4a2b923659c8ef31f76a8d231242b99809418"
     },
+    "onboard": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "9928ecc1170356ac103b9b893ffbd8a0299b9584afb9a4deba0554efb5e99338"
+    },
     "openclaw-persona-forge": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
@@ -690,6 +755,16 @@
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "7e7c12fec9f9bb4102d066887cf46d39db51a6ffd6b546fc8c83f2bf5f1b514a"
+    },
+    "optimize": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "f7adc2a2e540a590978b567d82985062bfada83385f5ad5d50b13a127cdc96d6"
+    },
+    "overdrive": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "d7c2c6fe1582fdc7a8b05776714f1d2d75f7593a024761a75761095863ebc6c2"
     },
     "perl-patterns": {
       "source": "affaan-m/everything-claude-code",
@@ -710,6 +785,11 @@
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "e9346320d37e4a87200e6a98037bdc334bfb4f5d2e872e89093160bc085844e9"
+    },
+    "polish": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "a37bac6096e9aaf717ffaf6d4bfa475e6cb6fd7c172f53ed63a1e5a6241235a6"
     },
     "postgres-patterns": {
       "source": "affaan-m/everything-claude-code",
@@ -760,6 +840,11 @@
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "d8822173edc34d1f1ca034eef82c03dd15fc3e84cb01d1860ab0c25330751d52"
+    },
+    "quieter": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "79087d2724b1c35b300a69a3cb1f71bae89f2231b10d53a367457e3c15399051"
     },
     "ralph-copywriter": {
       "source": "muratcankoylan/ralph-wiggum-marketer",
@@ -851,6 +936,11 @@
       "sourceType": "github",
       "computedHash": "bed0668abba0f43512ba190c9c2c46d3a7e983583997783bf600f2ed5587b351"
     },
+    "shape": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "867399b167a78da8635649c58b47fc49babaac26d5c423371f26531a8e481912"
+    },
     "skill-comply": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
@@ -930,6 +1020,11 @@
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
       "computedHash": "22710a1188abc5f2e8f164fb2ee35e720c361cbd7eedb4a8b5674b72b908ee8c"
+    },
+    "typeset": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "9f96013a3fcd2d4a8337293f9f6872bde2060520224a7994b87418eb4ef76001"
     },
     "ui-demo": {
       "source": "affaan-m/everything-claude-code",
