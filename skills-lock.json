@@ -871,6 +871,11 @@
       "sourceType": "github",
       "computedHash": "9d9718a451a832920f42feb3d5c5e2a66e138d385e62011aed3bcb0bbe871570"
     },
+    "subagent-driven-development": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "computedHash": "a197f8e5fba5ea59013e1adbaa90dd42db35de8f074feca200c8038de584a83b"
+    },
     "swift-actor-persistence": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
