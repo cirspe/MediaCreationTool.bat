@@ -101,6 +101,11 @@
       "sourceType": "github",
       "computedHash": "6c2560a025dd28ca0e7d9c7c58c152a46ecd4d4e1ff301dd34f94dd9c55f0007"
     },
+    "better-auth-best-practices": {
+      "source": "better-auth/skills",
+      "sourceType": "github",
+      "computedHash": "a4c830509e85557b59339d8d93a4e243e9e59c686e7678854d39230e12c2a6dc"
+    },
     "blueprint": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
