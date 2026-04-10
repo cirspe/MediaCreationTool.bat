@@ -1,6 +1,11 @@
 {
   "version": 1,
   "skills": {
+    "adapt": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "5c03ee454d24c886cad3d1687a4f3da893edeaad05ee5aebb0eb19a515324a3e"
+    },
     "agent-eval": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
