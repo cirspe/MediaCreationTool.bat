@@ -911,6 +911,11 @@
       "sourceType": "github",
       "computedHash": "73fe4768effba64905af8171c4a7d450dda4dad984b07680ae2377321c3d9c75"
     },
+    "using-superpowers": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "computedHash": "e0eced9fbb205c212f420aded0c6f2bf5d5f059254679a8459b4fe72390160be"
+    },
     "verification-loop": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
