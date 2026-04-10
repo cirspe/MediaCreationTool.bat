@@ -1011,6 +1011,11 @@
       "sourceType": "github",
       "computedHash": "86aa244015049fd70bbc4359d8e6aff6b901a38c09ebfc08cee02cbc46d407e5"
     },
+    "tailwind-design-system": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "computedHash": "988d80e52c67c3692d43cc963b6a048a239895e88b272b061de55370d0f8efc3"
+    },
     "tdd-workflow": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
