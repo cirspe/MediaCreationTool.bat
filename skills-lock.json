@@ -61,6 +61,11 @@
       "sourceType": "github",
       "computedHash": "877b63dfe31ec4d864c0a09ead442029a236def32fd2a7fd374083a27b4fa5ba"
     },
+    "animate": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "computedHash": "bbe89d7e1969bbda45966cf696e3148c8a7bf1886e1a6abc82bea8effe0858e2"
+    },
     "api-connector-builder": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
