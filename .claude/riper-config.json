@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "workflow": "RIPER",
+  "agents": {
+    "description": "3-agent consolidated architecture for improved performance",
+    "primary": ["research-innovate", "plan-execute", "review"]
+  },
+  "commands": {
+    "description": "RIPER mode control and memory bank operations",
+    "namespaces": ["riper", "memory"]
+  },
+  "memory-bank": {
+    "enabled": true,
+    "branch-aware": true,
+    "auto-backup": true,
+    "directories": {
+      "root": ".claude/memory-bank",
+      "plans": "{branch}/plans",
+      "reviews": "{branch}/reviews",
+      "sessions": "{branch}/sessions",
+      "backups": "backups"
+    }
+  },
+  "project-context": {
+    "tech-stack": ["Windows Batch Script", "PowerShell", "Python", "Bash", "Shell"],
+    "important-paths": {
+      "main": "MediaCreationTool.bat",
+      "bypass": "bypass11",
+      "memory": "memory",
+      "scripts": "scripts",
+      "decisions": "decisions.csv"
+    },
+    "key-patterns": [
+      "Batch script with embedded PowerShell for Windows media creation",
+      "Decision logging via log_decision.sh / scripts/log_decision.py",
+      "30-day review cycle tracked in decisions.csv",
+      "Persistent memory in memory/ directory read by Claude each session"
+    ]
+  },
+  "reference-docs": [".claude/project-info.md", "CLAUDE.md", "memory/decisions.md"]
+}

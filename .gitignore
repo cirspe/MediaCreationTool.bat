@@ -1,3 +1,6 @@
 dev/
 $ISO$/
 *.iso
+.claude/memory-bank/*/plans/
+.claude/memory-bank/*/reviews/
+.claude/memory-bank/*/sessions/
