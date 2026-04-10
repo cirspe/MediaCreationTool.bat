@@ -1,5 +1,18 @@
 {
-  "hooks": {},
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash .claude/plugins/ralph/hooks/stop-hook.sh",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  },
   "instructions": "This project uses the RIPER workflow with 3 consolidated agents (research-innovate, plan-execute, review). See .claude/project-info.md for detailed context.",
   "project": {
     "name": "MediaCreationTool.bat",

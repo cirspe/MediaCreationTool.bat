@@ -711,6 +711,11 @@
       "sourceType": "github",
       "computedHash": "d8822173edc34d1f1ca034eef82c03dd15fc3e84cb01d1860ab0c25330751d52"
     },
+    "ralph-copywriter": {
+      "source": "muratcankoylan/ralph-wiggum-marketer",
+      "sourceType": "github",
+      "computedHash": "d90bc458bdc669e557e4c82bc931a5afb1f62c76cabdba9e9aff37e10dae0cef"
+    },
     "ralphinho-rfc-pipeline": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
