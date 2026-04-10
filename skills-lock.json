@@ -56,6 +56,11 @@
       "sourceType": "github",
       "computedHash": "6fedc9632f486cef1f562b83563b0b38f135f5bc691445dabea2ee1a905b7712"
     },
+    "analytics-tracking": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "computedHash": "1ad3893d31e5df78cb4b4e16801f49acbdf82daed5f775748859ca7dc638d6d0"
+    },
     "android-clean-architecture": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
