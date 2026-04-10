@@ -906,6 +906,11 @@
       "sourceType": "github",
       "computedHash": "f44abe149c043af7fbaf75aa78e7f49ecdd978f0a1ccf599429f9bc8b5edd375"
     },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "a6a44d5498f7e8f68289902f3dedfc6f38ae0cee1e96527c80724cf27f727c2a"
+    },
     "workspace-surface-audit": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
