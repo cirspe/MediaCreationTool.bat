@@ -221,6 +221,11 @@
       "sourceType": "github",
       "computedHash": "0ed19bd0a12235e653220c558b48f0202faff92543d62407a5c6cf5effbbe592"
     },
+    "copy-editing": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "computedHash": "f1a31dc20a44b62d9a8b0e2c976e4cfaf12dd87e1c8a4ee8344bbf5aa8a73f63"
+    },
     "cost-aware-llm-pipeline": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
