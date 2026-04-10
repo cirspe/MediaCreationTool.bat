@@ -41,6 +41,11 @@
       "sourceType": "github",
       "computedHash": "092a063807f6662b6d339eea6fa8564cb420bfbeb28fe99e9be4a0cf76c18e3a"
     },
+    "ai-video-generation": {
+      "source": "inferen-sh/skills",
+      "sourceType": "github",
+      "computedHash": "6fedc9632f486cef1f562b83563b0b38f135f5bc691445dabea2ee1a905b7712"
+    },
     "android-clean-architecture": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
