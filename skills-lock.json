@@ -766,6 +766,11 @@
       "sourceType": "github",
       "computedHash": "d7c2c6fe1582fdc7a8b05776714f1d2d75f7593a024761a75761095863ebc6c2"
     },
+    "page-cro": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "computedHash": "9505748dba2319487b285f8ab8c1e5417fce38a512d596e1c9e2e87b34b196e1"
+    },
     "perl-patterns": {
       "source": "affaan-m/everything-claude-code",
       "sourceType": "github",
